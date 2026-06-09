@@ -1,5 +1,6 @@
 # 💫 About Me:
-ECE student <br>DS &Ai <br>Currently working on spice simulations 
+ECE student <br>DS&AI <br>Currently working on spice simulations <br> Learnign about different ml models ..
+
 
 
 ## 🌐 Socials:
